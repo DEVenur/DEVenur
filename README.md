@@ -20,7 +20,7 @@
   Um bot avançado focado em reprodução de música com alta qualidade e integração com diversas plataformas.
 
 - **Website**  
-  Desenvolvi site con interface moderna e acessível usando HTML, CSS e JavaScript.
+  Desenvolvi site com interface moderna e acessível usando HTML, CSS e JavaScript.
 
 - **Lavalink em Docker**  
   Configuração otimizada do Lavalink em contêiner Docker, garantindo desempenho e escalabilidade para bots de música.
@@ -34,5 +34,5 @@
 
 ---
 
-### Estatísticas do Perfil
+### Estatísticas
 [![](https://visitcount.itsvg.in/api?id=SeuUsuario&label=Profile%20Views&color=4&icon=7&pretty=true)](https://visitcount.itsvg.in)
