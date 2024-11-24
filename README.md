@@ -27,11 +27,11 @@
 
 ---
 
-### Contato
-📫 **E-mail:** arielvenur@gmail.com  
-🌐 **Site:** [Arielzinha](https:arielzinha.onrender.com)
-💬 **Discord:** @ariel_venur
-💻 Sempre aberto a colaborações e novas ideias!
+### Contato  
+- 📫 **E-mail:** arielvenur@gmail.com  
+- 🌐 **Site:** [Arielzinha](https://arielzinha.onrender.com)  
+- 💬 **Discord:** @ariel_venur  
+- 💻 Sempre aberto a colaborações e novas ideias!
 
 ---
 
