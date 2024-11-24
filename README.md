@@ -29,7 +29,8 @@
 
 ### Contato
 📫 **E-mail:** arielvenur@gmail.com  
-🌐 **Site:** [Brasil Poké Drink](https://dcserver.link/brasilpokedrink)  
+🌐 **Site:** [Arielzinha](https:arielzinha.onrender.com)
+💬 **Discord:** @ariel_venur
 💻 Sempre aberto a colaborações e novas ideias!
 
 ---
