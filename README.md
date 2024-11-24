@@ -1,10 +1,10 @@
 # Olá, eu sou Ariel Venur 👋
 
 ### Sobre mim
-- Desenvolvedor com foco em aplicações web e bots para Discord.
-- Experiência em **HTML**, **CSS**, **JavaScript** (especialmente com **aoi.js**) e **Python**.
-- Trabalho com **Docker** para gerenciar ambientes e implantar aplicativos de forma eficiente.
-- Paixão por criar ferramentas úteis para comunidades e otimizar processos automatizados.
+- Estudante com foco em aplicações web e bots para Discord.  
+- Aprendendo **HTML**, **CSS**, **JavaScript** (especialmente com **aoi.js**) e **Python**.  
+- Explorando o uso de **Docker** para gerenciar ambientes e implantar aplicativos de forma eficiente.  
+- Motivado a criar ferramentas úteis para comunidades e otimizar processos automatizados.
 
 ---
 
