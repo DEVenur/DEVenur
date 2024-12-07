@@ -27,13 +27,5 @@
 
 ---
 
-### Contato  
-- 📫 **E-mail:** arielvenur@gmail.com  
-- 🌐 **Site:** [Arielzinha](https://arielzinha.onrender.com)  
-- 💬 **Discord:** @ariel_venur  
-- 💻 Sempre aberto a colaborações e novas ideias!
-
----
-
 ### Estatísticas
 [![](https://visitcount.itsvg.in/api?id=SeuUsuario&label=Profile%20Views&color=4&icon=7&pretty=true)](https://visitcount.itsvg.in)
